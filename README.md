@@ -1,2 +1,2 @@
 # pointcoind
-Pointcoin (PTN) is the attention-powered token for digital content driven by opt-in ads.
+Pointcoin (PTN) – the world's best cryptocurrency rewards program.
